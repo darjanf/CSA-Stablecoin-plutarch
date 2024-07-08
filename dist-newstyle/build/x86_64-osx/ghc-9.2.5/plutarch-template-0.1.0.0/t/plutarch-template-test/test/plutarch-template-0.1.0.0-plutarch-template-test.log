@@ -1,0 +1,17 @@
+Test suite plutarch-template-test: RUNNING...
+All Tests
+  All Unit Tests
+    Test Minting dUSD
+      Pass : OK (0.35s)
+    Test Burning dUSD
+      Pass : OK (0.32s)
+    Test Liquidating dUSD
+      Pass : OK (0.33s)
+    Test Minting OracleNFT
+      Pass : OK
+    Test init PriceFeedOracle
+      Pass : OK (0.03s)
+
+All 5 tests passed (1.03s)
+Test suite plutarch-template-test: PASS
+Test suite logged to: /Users/df/Dev/Git-Workspace/Stablecoin-dUSD-plutarch/dist-newstyle/build/x86_64-osx/ghc-9.2.5/plutarch-template-0.1.0.0/t/plutarch-template-test/test/plutarch-template-0.1.0.0-plutarch-template-test.log
